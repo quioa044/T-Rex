@@ -19,7 +19,7 @@ if (place_meeting(x, y + 1, obj_block))
 	if ((jumpKey || jumpKeyAlt) && !duckKey) 
 	{
 		jumping = true;
-		vspd = jspd; 
+		vspd = -jspd; 
 	}
 }
 else
@@ -31,7 +31,7 @@ else
 	else
 	{
 		if (vspd < termVelocity)
-			vspd += grav;
+		  vspd += grav;
 		
 		if (sign(vspd) == 1)
 			falling = true; 

@@ -1,6 +1,6 @@
 if (jumping) 
 {
-	if (vspd <0)
+	if (vspd < 0)
 	{
 		jumping = true;
 	}
