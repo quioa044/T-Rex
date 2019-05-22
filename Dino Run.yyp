@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "334b019c-5202-4799-91ed-67c6ab160b62",
+            "Value": {
+                "id": "6ac1de78-b78c-497e-a18a-c450fb1a1fc4",
+                "resourcePath": "sprites\\spr_cactus_large\\spr_cactus_large.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3784d62d-9372-430d-8039-ba063128dcc8",
             "Value": {
                 "id": "28e28de8-f5a3-4dcf-a35a-b4e3502ab1a2",
@@ -79,6 +87,14 @@
             }
         },
         {
+            "Key": "542c47e1-62a3-406f-bf5f-65cb1038354b",
+            "Value": {
+                "id": "2f0603e0-81e8-4ccb-97c9-91ac4358f857",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "552292af-067b-4870-9005-cb590129a21a",
             "Value": {
                 "id": "bf7ca261-5171-4250-98a4-502e042c1ac1",
@@ -99,6 +115,14 @@
             "Value": {
                 "id": "65a35ac0-5e31-4af9-a7db-836cb9828e59",
                 "resourcePath": "sprites\\spr_dino_duck\\spr_dino_duck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5bf01caa-6f18-4792-bcfe-ca838c591d90",
+            "Value": {
+                "id": "8dcf49f4-0a18-4600-9bbf-b9e66619763e",
+                "resourcePath": "sprites\\spr_pterodactyl\\spr_pterodactyl.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -199,6 +223,14 @@
             }
         },
         {
+            "Key": "c6cc14cf-2c17-4c46-9bdc-68fd24b9532e",
+            "Value": {
+                "id": "5770e575-6174-4d26-a751-6dd86ddc9014",
+                "resourcePath": "objects\\obj_obstacle\\obj_obstacle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "2f9229e2-92d0-4f3b-9793-a764ca945758",
@@ -260,6 +292,14 @@
                 "id": "06be5d2f-2581-4baa-bd8a-8f4c4b6eb348",
                 "resourcePath": "views\\eda9f71f-6bdb-46ff-af47-a4e39c6dfc28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef69f84c-e7de-4f91-85ab-d19eaf35acd5",
+            "Value": {
+                "id": "7d3c08fa-5dce-44ec-85dc-ee352b8d1e61",
+                "resourcePath": "sprites\\spr_cactus_small\\spr_cactus_small.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
