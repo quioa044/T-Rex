@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1d7d0973-68a2-414c-8773-9c3597ca5a95",
+            "Value": {
+                "id": "70d24135-e25f-4261-9a6d-cedcfdfa2835",
+                "resourcePath": "sprites\\spr_ground\\spr_ground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "334b019c-5202-4799-91ed-67c6ab160b62",
             "Value": {
                 "id": "6ac1de78-b78c-497e-a18a-c450fb1a1fc4",
@@ -132,6 +140,14 @@
                 "id": "8dcf49f4-0a18-4600-9bbf-b9e66619763e",
                 "resourcePath": "sprites\\spr_pterodactyl\\spr_pterodactyl.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5bfb5956-53f2-48a9-bb44-d6ce90eb7245",
+            "Value": {
+                "id": "bc73684b-1082-4b88-b659-98d2a7135ec1",
+                "resourcePath": "objects\\obj_ground\\obj_ground.yy",
+                "resourceType": "GMObject"
             }
         },
         {
