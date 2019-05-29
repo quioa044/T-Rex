@@ -1,5 +1,14 @@
 if (jumping || falling) 
-	sprite_index = spr_dino_stand; 
+{
+	if (global.bday)
+	{
+		sprite_index = spr_dino_stand_bday;
+	}
+	else
+	{
+		sprite_index = spr_dino_stand; 
+	}
+}
 
 if  (ducking)
 {

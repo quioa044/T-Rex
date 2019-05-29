@@ -71,10 +71,26 @@
             }
         },
         {
+            "Key": "2bec9bdd-7d37-4481-a754-5f3df3905d6d",
+            "Value": {
+                "id": "4a54f991-a3b7-4ea3-901e-acd975891edc",
+                "resourcePath": "sprites\\spr_dino_duck_bday\\spr_dino_duck_bday.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "334b019c-5202-4799-91ed-67c6ab160b62",
             "Value": {
                 "id": "6ac1de78-b78c-497e-a18a-c450fb1a1fc4",
                 "resourcePath": "sprites\\spr_cactus_large\\spr_cactus_large.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3567b851-fc96-4ff4-804a-39a2d1c67159",
+            "Value": {
+                "id": "6a97cd3e-d28f-47b6-8307-9e8dbe9d0e26",
+                "resourcePath": "sprites\\spr_cake\\spr_cake.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -92,6 +108,14 @@
                 "id": "28e28de8-f5a3-4dcf-a35a-b4e3502ab1a2",
                 "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3c740c62-a295-463c-8024-1d3f9b6c55d5",
+            "Value": {
+                "id": "6ee06686-563c-41af-ba8e-cfdfbf647d5f",
+                "resourcePath": "sprites\\spr_dino_run_bday\\spr_dino_run_bday.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +196,14 @@
                 "id": "db03b07c-9f8f-434a-83a3-0dcc854654bd",
                 "resourcePath": "views\\62b6cf4e-75eb-4daf-8385-f0efe06db408.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "66cd6bae-c911-4c93-8cc9-c94e3df24e09",
+            "Value": {
+                "id": "e86d559b-8ad8-45c7-a9cf-8af7d7b2d0c2",
+                "resourcePath": "sprites\\spr_dino_dead_bday\\spr_dino_dead_bday.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -335,6 +367,14 @@
             }
         },
         {
+            "Key": "e26b4425-bf45-43e5-a5e3-d08b2f34d7ef",
+            "Value": {
+                "id": "5a6b9adc-963f-44f7-8252-1a4a6a30e450",
+                "resourcePath": "sprites\\spr_dino_stand_bday\\spr_dino_stand_bday.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e6ec97a0-4ee2-49ed-afd8-74f64609c1b6",
             "Value": {
                 "id": "da081633-a7e3-453e-97d4-f32c8753fd0a",
@@ -363,6 +403,22 @@
             "Value": {
                 "id": "7d3c08fa-5dce-44ec-85dc-ee352b8d1e61",
                 "resourcePath": "sprites\\spr_cactus_small\\spr_cactus_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0329e2d-7678-4eda-903b-44cc5c9f0011",
+            "Value": {
+                "id": "bb26f812-e629-415f-9f76-31856d10099a",
+                "resourcePath": "objects\\obj_cake\\obj_cake.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2b12cc9-aac4-40bc-ae30-34d35879af43",
+            "Value": {
+                "id": "677c90c1-a407-41e8-8de4-ca1307bef8c2",
+                "resourcePath": "sprites\\spr_balloon\\spr_balloon.yy",
                 "resourceType": "GMSprite"
             }
         },
