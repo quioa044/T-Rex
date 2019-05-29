@@ -1,4 +1,4 @@
-if (global.gameOver) exit;
+if (global.gameOver) exit; 
 
 scr_detect_key();
 scr_ground_check();
