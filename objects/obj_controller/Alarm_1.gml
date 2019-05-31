@@ -1,5 +1,10 @@
 randomize();
-instance_create_layer(room_width + 100, room_height/2 + irandom_range(-200, 100), "Instances", obj_cloud);
+var i = instance_create_layer(room_width + 100, room_height/2 + irandom_range(-200, 100), "Instances", obj_cloud);
+
+if (global.bday)
+{
+	i.sprite_index = spr_balloon;
+}
 
 if (global.gameOver) exit; 
 
