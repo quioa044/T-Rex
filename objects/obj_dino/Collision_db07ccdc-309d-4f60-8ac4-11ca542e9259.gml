@@ -1,4 +1,4 @@
-if (other.object_index != obj_cake
+if (other.object_index != obj_cake)
 {
 	global.gameOver = true; 
 	grav = 0;
@@ -19,6 +19,7 @@ if (other.object_index != obj_cake
 
 	with (obj_obstacle)
 	{
+		speed = 0;
 		image_speed = 0; 
 	}
 }
